@@ -1,11 +1,6 @@
 Algoritmo "JogoDaVElha"
-// 
-//  
-// Descrição   : Aqui você descreve o que o programa faz! (função)
-// Autor(a)    : Nome do(a) aluno(a)
-// Data atual  : 08/08/2024
-Var
-// Seção de Declarações das variáveis 
+
+var
 
  A: vetor [1.. 3] de caractere
  B: vetor [1.. 3] de caractere
@@ -28,7 +23,7 @@ Var
  fimprocedimento
  
 Inicio
-// Seção de Comandos, procedimento, funções, operadores, etc... 
+. 
    I <- 1
    resultado <- Falso
    A[1] <- "1"
